@@ -106,7 +106,7 @@ def extract_keywords_from_job(job_text):
     return [i.strip() for i in items if i.strip()][:30]
 
 def rewrite_items_openai(items, job_keywords, section_name, model=DEFAULT_MODEL):
-    system = "Tu es un rédacteur professionnel de CV. Réécris très brièvement les titres et bullets pour qu'ils correspondent à l'offre fournie. N'invente pas d'expériences ni de résultats. Sois concis."
+    system = "Tu es un rédacteur professionnel de CV. Réécris les titres et bullets pour qu'ils soient adaptés à l'offre. Tu peux reformuler de façon concise, mais reste fidèle à la réalité et ne crée pas d'expériences nouvelles."
     user = (
         f"Contexte - mots-clés de l'offre: {job_keywords}\n"
         f"Section: {section_name}\n"
