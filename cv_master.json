@@ -1,0 +1,109 @@
+{
+  "stages": [
+    {
+      "title": "Data Analyst",
+      "company": "EssilorLuxottica",
+      "tasks": [
+        "Identification des causes de pannes et des tendances (méthodes statistiques & ML)",
+        "Développement de dashboards (Power BI / Excel) pour le suivi des KPI qualité et logistique",
+        "Création de modèles prédictifs"
+      ],
+      "keywords": ["Python", "Machine Learning", "Power BI", "Excel", "Data Analysis", "Statistical Methods"]
+    },
+    {
+      "title": "Data Scientist (stage)",
+      "company": "Renault Group",
+      "tasks": [
+        "Optimisation des inventaires et des flux logistiques",
+        "Développement d'un dashboard de suivi des performances"
+      ],
+      "keywords": ["Python", "Data Science", "Machine Learning", "Dashboard", "Optimisation"]
+    },
+    {
+      "title": "Stage d'initiation",
+      "company": "Volvo",
+      "tasks": [
+        "Découverte des processus industriels",
+        "Analyse de données de production"
+      ],
+      "keywords": ["Data Analysis", "Production", "Processus industriels"]
+    },
+    {
+      "title": "Développeur AQC (Freelance)",
+      "company": "Énergie Jeunes",
+      "tasks": [
+        "Création d'un outil informatique pour la saisie et l'analyse des données",
+        "Traitement de questionnaires QCM collectés sur le terrain"
+      ],
+      "keywords": ["Python", "Développement", "Analyse de données", "AQC"]
+    }
+  ],
+  "projets": [
+    {
+      "title": "Textra",
+      "description": "Automatisation de l'extraction et de l'analyse des informations contenues dans les factures françaises en combinant OCR et modèles de langage avancés (LLM)."
+    },
+    {
+      "title": "Vision Trafic",
+      "description": "Détection, comptage des véhicules et reconnaissance automatique de plaques d'immatriculation."
+    },
+    {
+      "title": "Outil interne de préparation de données",
+      "description": "Prétraitement et post-traitement des données : analyse, exploration, nettoyage, intégration, transformation et réduction (Data Management). Développement d'une interface pour le prétraitement direct des données."
+    },
+    {
+      "title": "LLM-Enhanced FMEA",
+      "description": "Utilisation de modèles de langage (LLM) pour automatiser la création des tableaux AMDEC. Amélioration de l'identification des modes de défaillance et génération de suggestions intelligentes d'actions correctives."
+    }
+  ],
+  "competences": [
+    {"name": "Python"},
+    {"name": "C++"},
+    {"name": "SQL"},
+    {"name": "Java"},
+    {"name": "VB"},
+    {"name": "Bash"},
+    {"name": "Power BI"},
+    {"name": "Excel Avancé"},
+    {"name": "FastAPI"},
+    {"name": "Streamlit"},
+    {"name": "Docker"},
+    {"name": "Kubernetes"},
+    {"name": "Git"},
+    {"name": "Linux/UNIX"},
+    {"name": "Windows Server"},
+    {"name": "Machine Learning"},
+    {"name": "Deep Learning"},
+    {"name": "NLP"},
+    {"name": "Computer Vision"},
+    {"name": "OCR"},
+    {"name": "RAG"},
+    {"name": "Data Mining"},
+    {"name": "Data Cleaning"},
+    {"name": "Data Visualization"},
+    {"name": "Feature Engineering"},
+    {"name": "MLOps"},
+    {"name": "TensorFlow"},
+    {"name": "PyTorch"},
+    {"name": "Scikit-learn"},
+    {"name": "Pandas"},
+    {"name": "NumPy"},
+    {"name": "Matplotlib"},
+    {"name": "Seaborn"},
+    {"name": "Data Engineering"},
+    {"name": "ETL/ELT"},
+    {"name": "Azure Data Factory"},
+    {"name": "PostgreSQL"},
+    {"name": "MySQL"},
+    {"name": "Oracle Database"},
+    {"name": "Apache Kafka"},
+    {"name": "Spark Streaming"},
+    {"name": "Gestion de projet"},
+    {"name": "Agile"},
+    {"name": "Scrum"},
+    {"name": "Kanban"},
+    {"name": "JIRA"},
+    {"name": "Trello"},
+    {"name": "Documentation Technique"}
+  ]
+}
